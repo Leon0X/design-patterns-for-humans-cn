@@ -6,14 +6,6 @@
 
 * * *
 
-[![Build Status](https://travis-ci.org/guanguans/design-patterns-for-humans-cn.svg?branch=master)](https://travis-ci.org/guanguans/design-patterns-for-humans-cn)
-
-## 自荐项目
-
-* [soar-php](https://github.com/guanguans/soar-php) - 一个方便 sql 语句调优的 PHP 扩展包
-* [think-soar](https://github.com/guanguans/think-soar)- 适用于 thinkphp 中 sql 语句调优的扩展包，自动报告页面内 `sql 语句评分`和对 `explain sql 信息解读`
-* [music-php](https://github.com/guanguans/music-php) - 一个命令行音乐下载器
-* [dnmp-plus](https://github.com/guanguans/dnmp-plus) - 一个 Docker 的 LNMP 一键安装开发环境，支持 xhgui、xhprof、tideways
 
 ## 目录
 
@@ -2446,10 +2438,3 @@ $iosBuilder->build();
 // Deploying ios build to server
 ```
 
-## 总结
-
-我会持续改进，希望 `watch` 或者 `star`，以便下次访问。
-
-## License
-
-[![](https://camo.githubusercontent.com/45b46deab81a0adb3164212be341f1dd65111cf3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d43432532304259253230342e302d6c69676874677265792e737667)](https://creativecommons.org/licenses/by/4.0/)
